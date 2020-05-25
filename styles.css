@@ -64,14 +64,14 @@ p {
   text-align: right;
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 1080px) {
   .supervisor, .calculator {
     display: block;
     position: static;
   }
 
 .supervisor, .team-builder, .karma, .calculator {
-  margin-bottom: 15%;
+  margin-bottom: 10%;
   border-top-width: 0.3rem;
   }
 }
